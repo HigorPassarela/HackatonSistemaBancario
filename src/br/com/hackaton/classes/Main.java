@@ -1,3 +1,11 @@
+/*
+AUTORES:
+Higor do Nascimento Passarela
+Henrique Gonçalves Mourão
+Israel Junior
+Data: 29/08/2025
+*/
+
 package br.com.hackaton.classes;
 
 import java.util.*;
@@ -121,7 +129,7 @@ public class Main {
                     if (consultar != null) {
                         System.out.println("Saldo: " + consultar.getSaldo());
                     } else {
-                        System.out.println("⚠ Conta não encontrada.");
+                        System.out.println("Conta não encontrada!");
                     }
                     break;
 
